@@ -1,5 +1,4 @@
-# question-1
-# Assignment-Python-Sushant
+
 # Question 1
 number1 = int(input("Please first number:"))
 number2 = int(input("Please second number:"))
